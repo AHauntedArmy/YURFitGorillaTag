@@ -1,4 +1,4 @@
-![](./Images/yurXgt.png)
+![](./Images/yurfitgorillatag.gif)
 # YURFit Gorilla Tag
 
  YURFit Gorilla Tag is a collobarative mod for Gorilla Tag that adds a watch to your wrist to view YURFit information such as heart rate, calorie count.
