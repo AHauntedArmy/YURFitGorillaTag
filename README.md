@@ -13,3 +13,4 @@
 - Add support for custom watches similar to cosmetics and maploader
 - Add more information options
 - Maybe some sort of logo above another players head to tell if they have the mod installed.
+- Add better support for the hunt game mode.
