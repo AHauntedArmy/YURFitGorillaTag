@@ -16,6 +16,6 @@
 <br><br/> 
 
 ## TroubleShooting:
-### Error message:
+### Login Code "Error":
  - Namecheaps FastVPN is known to block the connection
  - Try adding YUR.Fit.Unity.dll and YURFitGorillaTag.dll to your firewall whitelist.
