@@ -12,9 +12,9 @@
 ## TODO:
 - Add support for custom watches similar to cosmetics and maploader
 - Add more information options
-\
-\
-\ 
+
+<br><br/> 
+
 ## TroubleShooting:
 ### Error message:
  - Namecheaps FastVPN is known to block the connection
