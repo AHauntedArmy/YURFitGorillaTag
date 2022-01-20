@@ -12,5 +12,10 @@
 ## TODO:
 - Add support for custom watches similar to cosmetics and maploader
 - Add more information options
-- Maybe some sort of logo above another players head to tell if they have the mod installed.
-- Add better support for the hunt game mode.
+\
+\
+\ 
+## TroubleShooting:
+### Error message:
+ - Namecheaps FastVPN is known to block the connection
+ - Try adding YUR.Fit.Unity.dll and YURFitGorillaTag.dll to your firewall whitelist.
