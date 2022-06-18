@@ -5,7 +5,7 @@
 
 ## Credits: 
  - The YURFit team
- - Fchb1239
+ - fchb1239
  - A Haunted Army
 
 
